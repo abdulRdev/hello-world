@@ -1,2 +1,4 @@
 # hello-world
-My first repo so that I can learn the  GitHub ropes.
+Alright, this is my first edit of the master repo through a branch. Let's how it turns out. 
+
+By the way, I like chai.
